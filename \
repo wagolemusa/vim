@@ -1,0 +1,7 @@
+elements = {"H" => "Hydrogen", "Li" => "Lithium"}
+	
+	puts elements["Li"]
+	puts elements["H"]
+
+elements["Ne"] = "Neon"
+	puts elements["Ne"]
